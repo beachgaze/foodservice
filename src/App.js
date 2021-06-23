@@ -10,7 +10,9 @@ function App() {
 <img alt='' class="logo" src={logo} />
 
  <h3 className="title">
-     Inicio │ Registro │ Login │ Configuración │ Pago
+     Inicio │ Registro │ Login │ Configuración │ Pago 
+     <br/>
+     Pedidos por día │ Admin Config 
    </h3>
  
 
